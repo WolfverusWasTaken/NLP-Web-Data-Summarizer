@@ -1,5 +1,7 @@
-# Project DOLOS
+# Project DOLOS [Scrapped]
+I will be focusing on developing this project with LLMs.
 
+---
 DOLOS is a NLP Extractive Webpage summarizer. It is made with the Parrot Framework. This project will be improved on and new features will be implemented.
 
 ## To Do
